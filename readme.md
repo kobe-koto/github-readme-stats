@@ -444,6 +444,6 @@ Thanks! :heart:
 [![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
 
 
-Contributions are welcome! <3
+Contributions are welcome!
 
 Made with :heart: and JavaScript.
